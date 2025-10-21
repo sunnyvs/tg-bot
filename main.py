@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import random
 
-bot = telebot.TeleBot('7566775521:AAFkzen_CD27EsDE5hh7bjoRMeTnomPNZc8')
+bot = telebot.TeleBot('')
 
 emoji_to_text = {
     '🪨 Камень' : 'Камень',
